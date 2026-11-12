@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <title>鹈鹕骑行在孙悟空驾驶的飞机机翼上 — 糖果推理题答案 29</title>
+  <desc>复古科幻海报风插画。鹈鹕骑自行车在大型飞机机翼上，翅膀托着北极熊，秦始皇骑在熊上打螺丝。右侧是糖果题面与答案 29。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101c39"/><stop offset="0.55" stop-color="#172d52"/><stop offset="1" stop-color="#0a1328"/></linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffd36a"/><stop offset="1" stop-color="#d96c29"/></linearGradient>
+    <linearGradient id="wing" x1="0" y1="0" x2="0.9" y2="1"><stop stop-color="#6e89a4"/><stop offset="0.44" stop-color="#d2d7da"/><stop offset="1" stop-color="#425974"/></linearGradient>
+    <linearGradient id="wingEdge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#263b59"/><stop offset="0.5" stop-color="#f0b95a"/><stop offset="1" stop-color="#8e3b30"/></linearGradient>
+    <linearGradient id="feather" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8f2dc"/><stop offset="0.45" stop-color="#e8dcc0"/><stop offset="1" stop-color="#a88f72"/></linearGradient>
+    <linearGradient id="beak" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ef7449"/><stop offset="1" stop-color="#b93932"/></linearGradient>
+    <linearGradient id="armor" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dbb657"/><stop offset="0.5" stop-color="#8d5c27"/><stop offset="1" stop-color="#402b28"/></linearGradient>
+    <linearGradient id="fur" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4f0db"/><stop offset="0.65" stop-color="#c8d0c8"/><stop offset="1" stop-color="#7d8f99"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="12"/><feOffset dx="0" dy="12"/><feComponentTransfer><feFuncA type="linear" slope="0.35"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3"/></filter>
+    <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.75" numOctaves="3" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 0.07"/></feComponentTransfer><feBlend in="SourceGraphic" mode="multiply"/></filter>
+    <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse"><path d="M50 0H0V50" fill="none" stroke="#a6c6d2" stroke-opacity=".1" stroke-width="1"/></pattern>
+    <pattern id="hatch" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(25)"><path d="M0 0V12" stroke="#223954" stroke-opacity=".18" stroke-width="3"/></pattern>
+    <marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0 0L9 4.5L0 9Z" fill="#f5be61"/></marker>
+  </defs>
+
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <rect width="1600" height="1000" fill="url(#grid)"/>
+  <circle cx="325" cy="190" r="210" fill="url(#sun)" opacity=".16" filter="url(#soft)"/>
+  <path d="M0 730C240 660 445 685 720 760s430 140 880 40v200H0Z" fill="#091126" opacity=".8"/>
+  <path d="M0 790C270 720 510 755 742 826s470 92 858 0" fill="none" stroke="#2d5270" stroke-width="3" stroke-dasharray="12 20" opacity=".65"/>
+
+  <!-- poster heading -->
+  <g transform="translate(58 52)">
+    <text x="0" y="0" fill="#f7cf83" font-family="Arial, sans-serif" font-size="18" letter-spacing="5">AERONAUTICAL IMPOSSIBILITIES · 01</text>
+    <text x="0" y="62" fill="#fff4d6" font-family="'Microsoft YaHei', sans-serif" font-size="54" font-weight="800" letter-spacing="3">机翼上的奇想实验</text>
+    <path d="M0 87H785" stroke="#e79a4d" stroke-width="4"/>
+    <path d="M0 101H530" stroke="#608ba0" stroke-width="2"/>
+  </g>
+
+  <!-- giant aircraft wing -->
+  <g filter="url(#shadow)">
+    <path d="M50 665L1000 525L1185 588L1088 670L254 850Z" fill="url(#wing)" stroke="#d9e0dc" stroke-width="5"/>
+    <path d="M50 665L1000 525L1185 588L1088 670L254 850Z" fill="url(#hatch)"/>
+    <path d="M50 665L1000 525L1185 588" fill="none" stroke="#f6ca71" stroke-width="7"/>
+    <path d="M50 665L254 850L1088 670" fill="none" stroke="#253b58" stroke-width="8"/>
+    <path d="M113 683L1040 551" stroke="#eff5e9" stroke-opacity=".5" stroke-width="3" stroke-dasharray="38 22"/>
+    <g fill="#243c5d" stroke="#e7b158" stroke-width="3">
+      <circle cx="206" cy="730" r="12"/><circle cx="370" cy="701" r="12"/><circle cx="534" cy="669" r="12"/><circle cx="698" cy="644" r="12"/><circle cx="861" cy="613" r="12"/>
+    </g>
+    <g fill="#f1c76b" font-family="Arial, sans-serif" font-size="14" letter-spacing="2"><text x="104" y="828">WING / 07</text><text x="978" y="612">MAX LIFT</text></g>
+  </g>
+
+  <!-- Sun Wukong in cockpit -->
+  <g transform="translate(980 380)" filter="url(#shadow)">
+    <path d="M0 122C-4 63 45 20 103 26c68 7 93 57 70 112Z" fill="#2d3d66" stroke="#e5b75a" stroke-width="5"/>
+    <path d="M24 100C34 51 68 34 113 39c35 3 60 31 64 70" fill="#75b6bf" opacity=".7" stroke="#e0ecdc" stroke-width="3"/>
+    <path d="M52 15Q87-19 123 17L110 71L72 71Z" fill="#b9472f" stroke="#e9b759" stroke-width="5"/>
+    <circle cx="90" cy="55" r="35" fill="#d39a60" stroke="#4c2f2b" stroke-width="5"/>
+    <path d="M67 58q12-13 25 0M89 58q12-13 25 0" fill="none" stroke="#2e2730" stroke-width="5"/>
+    <circle cx="76" cy="57" r="4" fill="#1b2030"/><circle cx="103" cy="57" r="4" fill="#1b2030"/>
+    <path d="M80 75q11 10 23 0" fill="none" stroke="#702e2e" stroke-width="4"/>
+    <path d="M45 7L15-23M133 7L161-23" stroke="#e6b65e" stroke-width="7"/>
+    <text x="-38" y="151" fill="#f8d37c" font-family="'Microsoft YaHei', sans-serif" font-size="17" font-weight="700">孙悟空 · PILOT</text>
+  </g>
+
+  <!-- bicycle -->
+  <g transform="translate(327 545)" filter="url(#shadow)">
+    <g fill="none" stroke="#e56d47" stroke-width="7"><circle cx="0" cy="168" r="62"/><circle cx="274" cy="168" r="62"/></g>
+    <g fill="none" stroke="#f3bd63" stroke-width="5"><path d="M0 168L78 85L145 168L0 168L113 168L78 85L195 82L274 168"/><path d="M145 168L195 82"/><path d="M195 82L212 45"/></g>
+    <path d="M205 43h48" stroke="#f3bd63" stroke-width="6" stroke-linecap="round"/><path d="M69 82l-29-23" stroke="#f3bd63" stroke-width="6"/><path d="M30 59h-28" stroke="#f3bd63" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="145" cy="168" r="13" fill="#2a3550" stroke="#f3bd63" stroke-width="5"/>
+    <path d="M145 168l-31 35M145 168l31 33" stroke="#f3bd63" stroke-width="5"/>
+    <text x="22" y="265" fill="#f5ca79" font-family="Arial, sans-serif" font-size="15" letter-spacing="3">BICYCLE / SKYWAY</text>
+  </g>
+
+  <!-- Pelican body -->
+  <g transform="translate(525 270)" filter="url(#shadow)">
+    <!-- left spread wing -->
+    <path d="M48 165C-26 127-101 49-113-22C-21 8 55 38 132 104C101 116 75 140 48 165Z" fill="url(#feather)" stroke="#705d55" stroke-width="5"/>
+    <path d="M-91 8L55 126M-69-6L75 119M-46-6L91 112" stroke="#a88f72" stroke-width="5"/>
+    <!-- right spread wing holding bear -->
+    <path d="M215 166C295 129 360 72 411-5C333 7 259 49 169 112C188 127 204 146 215 166Z" fill="url(#feather)" stroke="#705d55" stroke-width="5"/>
+    <path d="M373 22L211 133M344 8L197 127M312 13L183 128" stroke="#a88f72" stroke-width="5"/>
+    <!-- body -->
+    <ellipse cx="147" cy="184" rx="92" ry="109" fill="url(#feather)" stroke="#705d55" stroke-width="6"/>
+    <path d="M102 129Q147 160 192 129" fill="none" stroke="#b19a80" stroke-width="5"/>
+    <!-- neck/head -->
+    <path d="M90 129C61 95 57 44 83 11C110-23 166-17 191 15C211 42 197 93 180 132Z" fill="#f5f1df" stroke="#705d55" stroke-width="6"/>
+    <circle cx="110" cy="50" r="8" fill="#1b2434"/><circle cx="168" cy="50" r="8" fill="#1b2434"/>
+    <path d="M103 32q12-13 24 0M157 32q12-13 24 0" fill="none" stroke="#b49b82" stroke-width="4"/>
+    <!-- beak -->
+    <path d="M89 73C45 58-12 72-57 99C6 140 65 128 104 105Z" fill="url(#beak)" stroke="#6b302f" stroke-width="6"/>
+    <path d="M-54 100Q-11 101 92 84" fill="none" stroke="#f9c16e" stroke-width="4"/>
+    <path d="M-14 109q32 11 69-2" fill="none" stroke="#8f342f" stroke-width="4"/>
+    <!-- legs to bike -->
+    <path d="M122 278L99 353M170 278L207 350" stroke="#e8a34f" stroke-width="12" stroke-linecap="round"/>
+    <path d="M89 352h32M199 350h32" stroke="#e8a34f" stroke-width="8" stroke-linecap="round"/>
+    <!-- handle reach -->
+    <path d="M96 182L34 129" stroke="#e8a34f" stroke-width="11" stroke-linecap="round"/>
+    <path d="M192 182L240 131" stroke="#e8a34f" stroke-width="11" stroke-linecap="round"/>
+    <text x="44" y="370" fill="#f7d28b" font-family="'Microsoft YaHei', sans-serif" font-size="20" font-weight="700">鹈鹕</text>
+  </g>
+
+  <!-- polar bear perched in the wing -->
+  <g transform="translate(714 210)" filter="url(#shadow)">
+    <ellipse cx="124" cy="160" rx="103" ry="60" fill="url(#fur)" stroke="#53616c" stroke-width="6"/>
+    <circle cx="72" cy="102" r="45" fill="url(#fur)" stroke="#53616c" stroke-width="6"/>
+    <circle cx="48" cy="63" r="16" fill="#aab9b9" stroke="#53616c" stroke-width="5"/><circle cx="96" cy="62" r="16" fill="#aab9b9" stroke="#53616c" stroke-width="5"/>
+    <circle cx="59" cy="101" r="7" fill="#182238"/><circle cx="89" cy="101" r="7" fill="#182238"/><ellipse cx="75" cy="120" rx="13" ry="10" fill="#39404a"/>
+    <path d="M72 130q10 8 20 0" fill="none" stroke="#39404a" stroke-width="4"/>
+    <path d="M191 147l44-28" stroke="#53616c" stroke-width="15" stroke-linecap="round"/>
+    <path d="M220 115l30 18" stroke="#d4a653" stroke-width="8" stroke-linecap="round"/>
+    <!-- qin shi huang -->
+    <g transform="translate(143 8)">
+      <path d="M18 71Q-1 99 6 138L62 138Q69 97 48 71Z" fill="url(#armor)" stroke="#3e2d2e" stroke-width="5"/>
+      <circle cx="34" cy="43" r="27" fill="#bd865c" stroke="#3e2d2e" stroke-width="5"/>
+      <path d="M9 39Q35 4 60 39L57 23Q35 0 12 22Z" fill="#1e2434"/>
+      <path d="M20 42h9M40 42h9" stroke="#1e2434" stroke-width="4"/><path d="M27 58q10 8 19 0" fill="none" stroke="#6c2f2f" stroke-width="3"/>
+      <path d="M29 72L12 115M46 72L78 99" stroke="#bd865c" stroke-width="10" stroke-linecap="round"/>
+      <path d="M78 99l22 17" stroke="#d8ac55" stroke-width="5"/><path d="M99 116l5-18M99 116l16-8" stroke="#e7bd67" stroke-width="4"/>
+      <text x="-19" y="166" fill="#f7d28b" font-family="'Microsoft YaHei', sans-serif" font-size="17" font-weight="700">秦始皇 · 拧螺丝</text>
+    </g>
+    <text x="31" y="238" fill="#f3cf8a" font-family="'Microsoft YaHei', sans-serif" font-size="19" font-weight="700">北极熊</text>
+  </g>
+
+  <!-- speech bubble -->
+  <g transform="translate(73 260)" filter="url(#shadow)">
+    <path d="M0 0H373Q397 0 397 24V102Q397 126 373 126H138L82 165L90 126H24Q0 126 0 102Z" fill="#fff2ce" stroke="#b94c37" stroke-width="5"/>
+    <text x="24" y="42" fill="#27334f" font-family="'Microsoft YaHei', sans-serif" font-size="19" font-weight="700">鹈鹕喊道：</text>
+    <text x="24" y="74" fill="#27334f" font-family="'Microsoft YaHei', sans-serif" font-size="20">“摸糖果的最少保证数是——”</text>
+    <text x="292" y="113" fill="#b94c37" font-family="Arial, sans-serif" font-size="42" font-weight="900">29!</text>
+  </g>
+
+  <!-- right question card -->
+  <g transform="translate(1160 55)" filter="url(#shadow)">
+    <rect width="385" height="820" rx="22" fill="#101a31" stroke="#e6b460" stroke-width="4"/>
+    <rect x="17" y="17" width="351" height="786" rx="15" fill="none" stroke="#55718a" stroke-width="2"/>
+    <text x="32" y="57" fill="#f5c870" font-family="Arial, sans-serif" font-size="16" letter-spacing="3">PUZZLE CARD / 02</text>
+    <text x="32" y="94" fill="#fff0ca" font-family="'Microsoft YaHei', sans-serif" font-size="29" font-weight="800">糖果与形状</text>
+    <path d="M32 112H330" stroke="#c2553c" stroke-width="4"/>
+    <text x="32" y="150" fill="#e6e8d9" font-family="'Microsoft YaHei', sans-serif" font-size="17">
+      <tspan x="32" dy="0">在一个黑色的袋子里放有三种口味的糖果，</tspan>
+      <tspan x="32" dy="29">每种糖果有两种不同的形状（圆形和五角星形，</tspan>
+      <tspan x="32" dy="29">不同的形状靠手感可以分辨）。现已知不同口味</tspan>
+      <tspan x="32" dy="29">的糖和不同形状的数量统计如下表。参赛者需要</tspan>
+      <tspan x="32" dy="29">在活动前决定摸出的糖果数目，那么，最少取出</tspan>
+      <tspan x="32" dy="29">多少个糖果才能保证手中同时拥有不同形状的苹果</tspan>
+      <tspan x="32" dy="29">味和桃子味的糖？</tspan>
+    </text>
+    <text x="32" y="375" fill="#f5c870" font-family="'Microsoft YaHei', sans-serif" font-size="16" font-weight="700">满足任一条件即可</text>
+    <text x="32" y="402" fill="#d9e4dd" font-family="'Microsoft YaHei', sans-serif" font-size="16">
+      <tspan x="32" dy="0">圆形苹果味 + 五角星桃子味</tspan>
+      <tspan x="32" dy="26">或 圆形桃子味 + 五角星苹果味</tspan>
+    </text>
+    <!-- table -->
+    <g transform="translate(32 468)">
+      <rect width="319" height="150" rx="10" fill="#1b2c48" stroke="#66839a" stroke-width="2"/>
+      <path d="M0 44H319M0 96H319M89 0V150M165 0V150M242 0V150" stroke="#66839a" stroke-width="2"/>
+      <g fill="#f8edcf" font-family="'Microsoft YaHei', sans-serif" font-size="16" text-anchor="middle">
+        <text x="44" y="29">形状</text><text x="127" y="29">苹果味</text><text x="203" y="29">桃子味</text><text x="280" y="29">西瓜味</text>
+        <text x="44" y="76">圆形</text><text x="127" y="76" fill="#e9b45d" font-weight="700">7</text><text x="203" y="76" fill="#e9b45d" font-weight="700">9</text><text x="280" y="76" fill="#e9b45d" font-weight="700">8</text>
+        <text x="44" y="128">五角星形</text><text x="127" y="128" fill="#e9b45d" font-weight="700">7</text><text x="203" y="128" fill="#e9b45d" font-weight="700">6</text><text x="280" y="128" fill="#e9b45d" font-weight="700">4</text>
+      </g>
+    </g>
+    <path d="M32 655H350" stroke="#55718a" stroke-width="2"/>
+    <text x="32" y="688" fill="#f5c870" font-family="'Microsoft YaHei', sans-serif" font-size="16" font-weight="700">最坏情况</text>
+    <text x="32" y="716" fill="#e6e8d9" font-family="'Microsoft YaHei', sans-serif" font-size="16">避开一组配对仍可取出 28 颗</text>
+    <text x="32" y="744" fill="#e6e8d9" font-family="'Microsoft YaHei', sans-serif" font-size="16">所以再取 1 颗，就一定满足条件</text>
+    <rect x="32" y="764" width="319" height="25" rx="12" fill="#b94c37"/>
+    <text x="191" y="783" fill="#fff4d6" text-anchor="middle" font-family="'Microsoft YaHei', sans-serif" font-size="18" font-weight="900">答案 · 29</text>
+  </g>
+
+  <!-- footer labels -->
+  <g transform="translate(64 925)">
+    <circle cx="0" cy="0" r="8" fill="#e9b45d"/><text x="20" y="6" fill="#b8c7c8" font-family="Arial, sans-serif" font-size="15" letter-spacing="2">AEROSPACE / LOGIC / MYTH</text>
+    <text x="1410" y="6" fill="#b8c7c8" font-family="Arial, sans-serif" font-size="15" text-anchor="end" letter-spacing="2">答案锁定：29</text>
+  </g>
+  <rect width="1600" height="1000" fill="#fff" opacity=".08" filter="url(#grain)" pointer-events="none"/>
+</svg>
